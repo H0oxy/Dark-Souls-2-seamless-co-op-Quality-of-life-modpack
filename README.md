@@ -7,7 +7,7 @@
 
 ## 📥 Скачать
 
-**[⬇️ Скачать modpack]([https://github.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/releases/latest](https://github.com/H0oxy/Dark-Souls-2-seamless-co-op-Quality-of-life-modpack/releases#release-download))**
+**[⬇️ Скачать modpack](https://github.com/H0oxy/Dark-Souls-2-seamless-co-op-Quality-of-life-modpack/releases)**
 
 > После публикации релиза здесь появится прямая ссылка на архив.
 
