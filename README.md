@@ -9,8 +9,6 @@
 
 **[⬇️ Скачать modpack](https://github.com/H0oxy/Dark-Souls-2-seamless-co-op-Quality-of-life-modpack/releases)**
 
-> После публикации релиза здесь появится прямая ссылка на архив.
-
 ## ✨ Что внутри
 
 ### Кооператив и производительность
